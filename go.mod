@@ -1,3 +1,3 @@
-module gitlab.com/fashionunited/public/hugo-common-modules
+module github.com/fuww/hugo-common-modules
 
 go 1.19
